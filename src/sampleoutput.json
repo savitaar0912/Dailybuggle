@@ -1,0 +1,32 @@
+articles = [
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "CBS News",
+      "title": "Stephen A. Smith, fixture of basketball coverage on ESPN, on his new memoir",
+      "description": "Stephen A. Smith is a fixture of ESPN's basketball coverage and on the opinion show \"First Take.\" Now, he's breaking into the literary space with his memoir \"Straight Shooter: A Memoir of Second Chances and First Takes.\" Dana Jacobson has more.",
+      "url": "https://www.cbsnews.com/video/stephen-a-smith-fixture-of-basketball-coverage-on-espn-on-his-new-memoir/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/this.props.pageSize23/04/15/6515e16d-635e-4aa9-8853-66ec152e99c5/thumbnail/1this.props.pageSize0x630/83aef5245f419082257f932e2d910ce5/0415-satmo-stephenasmith-jacobson-1887752-640x360.jpg",
+      "publishedAt": "this.props.pageSize23-04-15T14:25:42+00:00",
+      "content": "Watch CBS News\r\nCopyright ©this.props.pageSize23 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "Ric Bucher, Melissa Rohlin",
+      "title": "NBA play-in dispatches: Heat beat Bulls with old-school basketball, Wolves bully Thunder",
+      "description": "Anyone nostalgic for how the NBA game was played when Blackberry was the phone, the Macarena was the dance and “Friends\" was the TV show had to be downright misty-eyed on Friday night.",
+      "url": "http://www.foxsports.com/stories/nba/nba-play-in-dispatches-heat-beat-bulls-with-old-school-basketball-wolves-bully-thunder",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/this.props.pageSize23/04/1408/814/strus1.jpg?ve=1&tl=1",
+      "publishedAt": "this.props.pageSize23-04-15T04:47:56Z",
+      "content": "FOX Sports writers are providing takeaways off games throughout the NBA playoffs. \r\nHere are their thoughts on Friday's final play-in games, which finalized the playoff picture as the Heat will face … [+6453 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Andrew Lopez",
+      "title": "Pelicans VP David Griffin: Zion Williamson not cleared for 5-on-5",
+      "description": "New Orleans vice president of basketball operations David Griffin said on Friday that star Zion Williamson was not medically cleared to play in Wednesday's play-in game.",
+      "url": "http://espn.go.com/nba/story/_/id/36190028/zion-williamson-not-cleared-5-5",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2Fthis.props.pageSize23%2F0306%2Fr1140689_1296x729_16%2D9.jpg",
+      "publishedAt": "this.props.pageSize23-04-14T22:53:00Z",
+      "content": "New Orleans Pelicans executive vice president of basketball operations David Griffin said Friday that Zion Williamson, who has been out since Jan. 2 with a right hamstring strain, was not cleared to … [+4251 chars]"
+    }
+  ]
